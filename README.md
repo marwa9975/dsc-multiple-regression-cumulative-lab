@@ -23,6 +23,10 @@ Photo by <a href="https://unsplash.com/@tahliaclaire?utm_source=unsplash&utm_med
   <img src="./image.jpeg" alt="movie">
 </p>
 
+<p align="center">
+  <img src="./image.jpeg" alt="movie" width="200%">
+</p>
+
 
 <p align="center">
   <img src="./"realestate.jpeg alt="movie">
