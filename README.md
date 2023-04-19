@@ -19,6 +19,15 @@ You will be able to:
 
 Photo by <a href="https://unsplash.com/@tahliaclaire?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tahlia Doyle</a> on <a href="https://unsplash.com/s/photos/diamonds?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
+<p align="center">
+  <img src="./image.jpeg" alt="movie">
+</p>
+
+
+<p align="center">
+  <img src="./"realestate.jpeg alt="movie">
+</p> 
+
 ### Business Understanding
 
 You've been asked to perform an analysis to see how various factors impact the price of diamonds. There are various [guides online](https://www.diamonds.pro/education/diamond-prices/) that claim to tell consumers how to avoid getting "ripped off", but you've been asked to dig into the data to see whether these claims ring true.
